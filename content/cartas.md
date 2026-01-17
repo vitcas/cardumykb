@@ -13,4 +13,6 @@ Não.
 Ainda não.
 
 **Posso importar listas de cartas de outras plataformas?**  
-Sim.
+Sim. Estamos trabalhando para ter compatibilidade com os formatos mais populares.
+
+**Posso exportar listas de cartas em quais formatos?**  

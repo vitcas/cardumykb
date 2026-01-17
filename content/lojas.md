@@ -1,22 +1,22 @@
 # Lojas e Produtos
 
-**Como encontro lojas dentro do Cardumy?**  
+**Não encontrei a loja que eu gosto**  
 —
 
-**Todas as lojas vendem todos os jogos disponíveis?**  
-—
+**Não encontrei um produto.**  
+Tentamos acompanhar lançamentos. 
+
+**Como sei quais jogos a loja vende?**  
+Essa informação só
 
 **Como sei se uma loja é confiável?**  
 —
 
 **Posso seguir uma loja e receber novidades?**  
-—
+Sim.
 
 **As lojas controlam o próprio estoque?**  
-—
+Sim.
 
 **Posso ver produtos indisponíveis ou já vendidos?**  
-—
-
-**Existe histórico de produtos visualizados ou reservados?**  
-—
+Não.

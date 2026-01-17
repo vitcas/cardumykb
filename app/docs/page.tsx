@@ -4,13 +4,11 @@ const sections = [
   { slug: 'jogos', title: 'Jogos' },
   { slug: 'cartas', title: 'Cartas e Coleção' },
   { slug: 'lojas', title: 'Lojas e Produtos' },
+  { slug: 'reservas', title: 'Reservas' },
+  { slug: 'social', title: 'Social' },
   { slug: 'conta', title: 'Conta e Perfil' },
-  { slug: 'reservas', title: 'Reservas de Cartas' },
-  { slug: 'social', title: 'Interações e Social' },
   { slug: 'seguranca', title: 'Segurança e Moderação' },
-  { slug: 'suporte', title: 'Suporte e Contato' },
-  { slug: 'futuro', title: 'Futuro da Plataforma' },
-  { slug: 'sem-categoria', title: 'Sem categoria' }
+  { slug: 'suporte', title: 'Suporte e Contato' }
 ]
 
 export default function DocsIndex() {

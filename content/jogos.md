@@ -16,3 +16,5 @@ Sim.
 
 **Quando um novo jogo é adicionado, os usuários são avisados?**  
 Não diretamente.
+
+**Como posso sugerir que um jogo seja adicionado ao Cardumy?**

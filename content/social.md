@@ -1,10 +1,10 @@
 # Interações e Social
 
-**Posso seguir outros usuários?**  
-Sim.
-
 **Posso ver atividades de outros usuários?**  
 Sim.
+
+**Posso enviar mensagens diretas para outros usuários?**  
+Definir limites de interação.
 
 **Existe algum tipo de reputação ou avaliação?**  
 Sim. Qualquer usuário pode avaliar seu perfil.

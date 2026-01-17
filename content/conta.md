@@ -6,11 +6,14 @@ Sim.
 **O que posso fazer sem estar logado?**  
 Nada.
 
+**Como redefinir minha senha?**
+
+
 **Quais informações são obrigatórias no perfil?**  
 Nome completo.
 
 **Quem pode ver minhas informações?**  
 Todos os usuários da plataforma.
 
-**Posso alterar meu nome, avatar ou preferências depois?**  
+**Quais informações do meu perfil posso alterar?**  
 Atualmente não.
